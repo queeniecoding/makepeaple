@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Aromatic Dream';
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://dl.dropbox.com/scl/fi/wtmrwn2445t2h2qctrcbn/AromaticDream_Regular.otf) format('otf');
+}
+
+@font-face {
+    font-family: 'Aromatic Dream Italic';
+    font-style: italic;
+    font-weight: 400;
+    src: url(https://dl.dropbox.com/scl/fi/te5oaw9aohsbmg7mqv7xq/AromaticDream_Slanted.otf) format('otf');
+}
